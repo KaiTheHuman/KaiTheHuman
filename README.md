@@ -1,4 +1,9 @@
 ## Hi there 👋
+# I am a student studying in Maynooth University
+# I am studying computer science and maths!
+
+This is where i am keeping past assigments and projects.
+he/him
 
 <!--
 **KaiTheHuman/KaiTheHuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
