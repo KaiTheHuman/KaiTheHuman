@@ -1,5 +1,6 @@
 ## Hi there 👋
  I am a student studying in Maynooth University
+ 
  I am studying computer science and maths!
 
 This is where i am keeping past assigments and projects.
